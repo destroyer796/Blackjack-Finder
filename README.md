@@ -15,8 +15,8 @@ PCB Design
 PCB Render
 
 BOM:
-4x Cherry MX Switches
-4x Cherry MX Style Keycaps
-1x Seeed Studios Xiao RP2040
-4x LEDs
-4x Through Hole Resistors (idk resistance)
+ - 4x Cherry MX Switches
+ - 4x Cherry MX Style Keycaps
+ - 1x Seeed Studios Xiao RP2040
+ - 4x Through Hole LEDs
+ - 4x Through Hole Resistors (idk resistance)
